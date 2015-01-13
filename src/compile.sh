@@ -113,7 +113,6 @@ cd "$srcdir"
 ./configure \
  --prefix="$instdir" \
  --exec-prefix="$instdir" \
- --enable-debug \
  --disable-short-tags \
  --without-pear \
  $configoptions
